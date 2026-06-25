@@ -15,9 +15,9 @@ I am a dedicated Data Science undergraduate student at Ateneo de Davao Universit
 
 #### Project Assets:
 * **Professional Logo:**
-  ![Talipan, Omar-nazif J. Logo](branding/logo.png)
+  ![Talipan_C.R.A.P..pdf](branding/logo.png)
 * **Profile Banner:**
-  ![LinkedIn Profile Banner](branding/header.png)
+  ![linkedin.com/in/omar-nazif-talipan](https://linkedin.com)](branding/header.png)
 
 ---
 
