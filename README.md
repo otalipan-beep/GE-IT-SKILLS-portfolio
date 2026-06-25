@@ -19,6 +19,8 @@ I am a dedicated Data Science undergraduate student at Ateneo de Davao Universit
 * **Profile Banner:**
   ![linkedin.com/in/omar-nazif-talipan](https://linkedin.com)]
 
+<img width="1080" height="1080" alt="Talipan_Promotional_post (1)" src="https://github.com/user-attachments/assets/d99fc77f-8acd-41c7-be69-a269dac78b77" />
+<img width="1584" height="396" alt="Talipan linked in banner (1)" src="https://github.com/user-attachments/assets/d8f47b42-c533-4fb0-bca0-42356dbf0a9d" />
 
 
 ## 📬 Connect with Me
