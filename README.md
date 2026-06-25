@@ -22,6 +22,7 @@ I am a dedicated Data Science undergraduate student at Ateneo de Davao Universit
 <img width="1080" height="1080" alt="Talipan_Promotional_post (1)" src="https://github.com/user-attachments/assets/d99fc77f-8acd-41c7-be69-a269dac78b77" />
 <img width="1584" height="396" alt="Talipan linked in banner (1)" src="https://github.com/user-attachments/assets/d8f47b42-c533-4fb0-bca0-42356dbf0a9d" />
 
+https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/tree/ae2e32b699e12e0b2be8890ac89cf6dd1fd252e9/Prompts
 
 ## 📬 Connect with Me
 * **Institution:** Ateneo de Davao University
