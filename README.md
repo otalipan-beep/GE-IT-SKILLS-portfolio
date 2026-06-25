@@ -29,6 +29,8 @@ https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/tree/16a67d89632516f780d
 
 https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/tree/ae2e32b699e12e0b2be8890ac89cf6dd1fd252e9/Prompt%20Engineering
 
+https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/blob/cc115cc8af235b97cbe1284d7239aa72b03c2ed7/media/Talipan_Prototyping%20link.docx
+
 ## 📬 Connect with Me
 * **Institution:** Ateneo de Davao University
 * **LinkedIn:** [linkedin.com/in/omar-nazif-talipan](https://linkedin.com)
