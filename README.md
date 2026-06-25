@@ -15,11 +15,14 @@ I am a dedicated Data Science undergraduate student at Ateneo de Davao Universit
 > **Design Reflection:** For my personal professional identity, I selected a clean, modern aesthetic with high-contrast elements suitable for platforms like LinkedIn. The visual assets balance academic professionalism with modern data analytics branding, ensuring a memorable and clean impression for recruiters.
 
 #### Project Assets:
-* **Professional Logo:**
+
   ![https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/blob/404161f4111b4552d7c7696ca87e18a52cc6465c/Branding%20kit/Talipan_C.R.A.P..pdf]
 
+  <img width="1584" height="396" alt="Talipan linked in banner (1)" src="https://github.com/user-attachments/assets/d8f47b42-c533-4fb0-bca0-42356dbf0a9d" />
+
+
 <img width="1080" height="1080" alt="Talipan_Promotional_post (1)" src="https://github.com/user-attachments/assets/d99fc77f-8acd-41c7-be69-a269dac78b77" />
-<img width="1584" height="396" alt="Talipan linked in banner (1)" src="https://github.com/user-attachments/assets/d8f47b42-c533-4fb0-bca0-42356dbf0a9d" />
+
 
 https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/tree/16a67d89632516f780dd81483e2b32cfd5800b2a/Visuals
 
