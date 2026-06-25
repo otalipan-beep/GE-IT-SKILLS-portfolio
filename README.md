@@ -33,6 +33,8 @@ https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/blob/cc115cc8af235b97cbe
 
 https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/blob/9b977550b65aa0ff891844fb814aea3613de027b/media/Interactive%20Interactions%20and%20Motion%20(1).mov
 
+https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/blob/f3c2651deee175f67e2901b899377cf154bdd3e2/docs/Talipan_Display%20Board.png
+
 ## 📬 Connect with Me
 * **Institution:** Ateneo de Davao University
 * **LinkedIn:** [linkedin.com/in/omar-nazif-talipan](https://linkedin.com)
