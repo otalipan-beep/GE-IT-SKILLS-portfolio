@@ -24,17 +24,17 @@ https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/blob/12ada316ad1a37a743c
 
 <img width="1080" height="1080" alt="Talipan_Promotional_post (1)" src="https://github.com/user-attachments/assets/d99fc77f-8acd-41c7-be69-a269dac78b77" />
 
-
+VISUALS
 https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/tree/16a67d89632516f780dd81483e2b32cfd5800b2a/Visuals
-
+PROMPTS
 https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/tree/ae2e32b699e12e0b2be8890ac89cf6dd1fd252e9/Prompts
-
+PROMPT ENGINEERING
 https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/tree/ae2e32b699e12e0b2be8890ac89cf6dd1fd252e9/Prompt%20Engineering
-
+MEDIA PROTOTYPING
 https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/blob/cc115cc8af235b97cbe1284d7239aa72b03c2ed7/media/Talipan_Prototyping%20link.docx
-
+MEDIA MOTION
 https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/blob/9b977550b65aa0ff891844fb814aea3613de027b/media/Interactive%20Interactions%20and%20Motion%20(1).mov
-
+DOCS PROJECT DISPLAY
 https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/blob/f3c2651deee175f67e2901b899377cf154bdd3e2/docs/Talipan_Display%20Board.png
 
 ## 📬 Connect with Me
