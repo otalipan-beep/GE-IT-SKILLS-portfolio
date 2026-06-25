@@ -17,7 +17,7 @@ I am a dedicated Data Science undergraduate student at Ateneo de Davao Universit
 #### Project Assets:
 [Talipan_Logo.pdf](https://github.com/user-attachments/files/29332396/Talipan_Logo.pdf)
 
-
+https://github.com/otalipan-beep/GE-IT-SKILLS-portfolio/blob/12ada316ad1a37a743c0466273898f9f6a641832/Branding%20kit/Talipan_C.R.A.P..pdf
 
   <img width="1584" height="396" alt="Talipan linked in banner (1)" src="https://github.com/user-attachments/assets/d8f47b42-c533-4fb0-bca0-42356dbf0a9d" />
 
